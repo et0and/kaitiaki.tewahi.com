@@ -67,7 +67,7 @@ li {
 .contact-link {
   position: fixed;
   left: 0; bottom: 0;
-  padding: 10%;
+  padding: 6%;
   z-index: 1;
 }
 a {
