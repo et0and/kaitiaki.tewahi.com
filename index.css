@@ -51,7 +51,7 @@ li {
   bottom: 0;
 }
 
-.contact-container::before {
+.contact-link::after {
   content: "";
   position: absolute;
   top: 0;
