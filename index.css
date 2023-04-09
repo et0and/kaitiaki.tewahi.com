@@ -62,11 +62,10 @@ li {
   backdrop-filter: blur(25px);
   z-index: -1;
   border-radius: 4px;
-  @media (max-width: 768px) {
+  @media screen and (min-width: 992px) {
   .element-to-hide {
     display: none;
   }
-}
 }
 
 .contact-link {
@@ -76,11 +75,10 @@ li {
   padding-right: 10%;
   padding-top: 16%;
   z-index: 1;
-  @media (max-width: 768px) {
+  @media screen and (min-width: 992px) {
   .element-to-hide {
     display: none;
   }
-}
 }
 a {
   color: #111;
